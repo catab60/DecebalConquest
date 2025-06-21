@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/catab60/DecebalConquest/blob/main/poze/banner.gif?raw=true">
+  <img src="https://github.com/catab60/DecebalConquest/blob/main/Decebal%20Conquest/poze/banner.gif?raw=true">
 </p>
 
 **Decebal Conquest** is a fast‑paced 48‑hour game jam project built for the iTEC 2024 Game Development sprint. You and a friend team up in local co‑op to fend off endless alien waves, defeat two fearsome bosses, and save Earth from destruction. Crafted entirely from scratch in Python with Pygame and OpenGL (plus a Tkinter trick for transparent CRT‑style borders), this jam-built shooter packs procedural surprises, voice-activated panic mode, and all the jam diversifiers you can handle.
@@ -141,8 +141,8 @@ Developed by:
 Student developers proving you can make a full-blown shooter in two days, no fancy engine required!
 
 <p align="center">
-  <img src="https://github.com/catab60/DecebalConquest/blob/main/poze/1.jpg?raw=true" height="400">
-  <img src="https://github.com/catab60/DecebalConquest/blob/main/poze/2.jpg?raw=true" height="400">
+  <img src="https://github.com/catab60/DecebalConquest/blob/main/Decebal%20Conquest/poze/1.jpg?raw=true" height="400">
+  <img src="https://github.com/catab60/DecebalConquest/blob/main/Decebal%20Conquest/poze/2.jpg?raw=true" height="400">
 </p>
 
 *Thank you for playing Decebal Conquest. Now load up, team up, and save the world!*
