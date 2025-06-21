@@ -1,0 +1,8 @@
+pygame
+pygame-crt
+Pillow
+pywin32
+keyboard
+numpy
+pyaudio
+zengl
