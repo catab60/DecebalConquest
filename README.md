@@ -52,50 +52,129 @@ Survive wave after wave of invaders and thieves, then face two legendary bosses,
 
 ## Enemies & Bosses
 
-* **Aliens**
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/catab60/DecebalConquest/blob/main/Decebal%20Conquest/poze/alien.JPG?raw=true" width="200">
+    </td>
+    <td>
+      <h2>Aliens</h2>
+      <ul>
+        <li>Present every wave in increasing numbers</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-  * Present every wave in increasing numbers
-  * Two AI patterns:
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/catab60/DecebalConquest/blob/main/Decebal%20Conquest/poze/spartan.JPG?raw=true" width="200">
+    </td>
+    <td>
+      <h2>Spartans</h2>
+      <ul>
+        <li>Spawn randomly between waves</li>
+        <li>Emit a magnetic pulse that pulls in all dropped coins and power-ups</li>
+        <li>Vanish immediately after siphoning resources. Must be eliminated quickly or you lose currency</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-    1. **Patrol Swarm**, fly in looping, synchronized patterns, forcing you to time shots
-    2. **Hunter Drones**, lock onto a player for short bursts before dispersing
-  * Weak individually, but deadly in groups
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/catab60/DecebalConquest/blob/main/Decebal%20Conquest/poze/traian.JPG?raw=true" width="200">
+    </td>
+    <td>
+      <h2>Traian (First Boss)</h2>
+      <ul>
+        <li>Teleports unpredictably around the arena edges</li>
+        <li>Fires <strong>Massive Orbs</strong> which, on impact, deal <strong>double damage</strong> to players and to Earth’s shield</li>
+        <li>Shields regenerate slowly if left unchallenged, so constant pressure is key</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-* **Spartans**
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/catab60/DecebalConquest/blob/main/Decebal%20Conquest/poze/decebal.JPG?raw=true" width="200">
+    </td>
+    <td>
+      <h2>Decebal (Final Boss)</h2>
+      <ul>
+        <li>Gradually advances toward Earth’s orbit, shrinking the safe battlefield</li>
+        <li>Has an enormous health pool. Every hit chips away, but he regenerates when idle</li>
+        <li>If he makes contact with the planet’s surface, you instantly lose</li>
+        <li>Defeat him before he lands to <strong>win the game</strong></li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-  * Spawn randomly between waves
-  * Emit a magnetic pulse that pulls in all dropped coins and power-ups
-  * Vanish immediately after siphoning resources. Must be eliminated quickly or you lose currency
-
-* **Traian (First Boss)**
-
-  * Teleports unpredictably around the arena edges
-  * Fires **Massive Orbs** which, on impact, deal **double damage** to players and to Earth’s shield
-  * Shields regenerate slowly if left unchallenged, so constant pressure is key
-
-* **Decebal (Final Boss)**
-
-  * Gradually advances toward Earth’s orbit, shrinking the safe battlefield
-  * Has an enormous health pool. Every hit chips away, but he regenerates when idle
-  * If he makes contact with the planet’s surface, you instantly lose
-  * Defeat him before he lands to **win the game**
 
 ---
 
 ## Special Items & Shop
 
-1. **Minigun**
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/catab60/DecebalConquest/blob/main/Decebal%20Conquest/poze/minigun.JPG?raw=true" width="200">
+    </td>
+    <td>
+      <h2>Minigun</h2>
+      <ul>
+        <li>Unlocks rapid-fire mode when you press <code>2</code></li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-   * Unlocks rapid-fire mode when you press `2`
-2. **Explosive Ammo**
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/catab60/DecebalConquest/blob/main/Decebal%20Conquest/poze/ammo.JPG?raw=true" width="200">
+    </td>
+    <td>
+      <h2>Explosive Ammo</h2>
+      <ul>
+        <li>All shots deal <strong>2× damage</strong> in a small blast radius</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-   * All shots deal **2× damage** in a small blast radius
-3. **Earth Shield**
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/catab60/DecebalConquest/blob/main/Decebal%20Conquest/poze/shield.JPG?raw=true" width="200">
+    </td>
+    <td>
+      <h2>Earth Shield</h2>
+      <ul>
+        <li>Adds an extra protective layer around Earth, boosting its max health</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-   * Adds an extra protective layer around Earth, boosting its max health
-4. **“Lupul Dacic”**
-
-   * Legendary artifact. Purchase this to auto-win if you can afford its steep cost
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/catab60/DecebalConquest/blob/main/Decebal%20Conquest/poze/lup.JPG?raw=true" width="200">
+    </td>
+    <td>
+      <h2>“Lupul Dacic”</h2>
+      <ul>
+        <li>Legendary artifact. Purchase this to auto-win if you can afford its steep cost</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
