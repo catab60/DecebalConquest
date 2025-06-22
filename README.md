@@ -194,7 +194,7 @@ Survive wave after wave of invaders and thieves, then face two legendary bosses,
 ### Getting Started
 
 ```bash
-git clone https://github.com/yourusername/DecebalConquest.git
+git clone https://github.com/catab60/DecebalConquest.git
 cd DecebalConquest
 pip install -r requirements.txt
 python main.py
